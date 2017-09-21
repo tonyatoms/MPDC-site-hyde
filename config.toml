@@ -1,0 +1,30 @@
+baseurl = "http://mckinleyparkdevelopmentcouncil.org/"
+title = "McKinley Park Development Council"
+theme = "hyde"
+languageCode = "en-us"
+
+
+[params]
+  themeColor = "theme-base-0b"
+  featured_image = "/mpdc-logo01.jpg"
+[Languages]
+[Languages.en]
+title = "McKinley Park Development Council"
+weight = 1
+[Languages.en.params]
+linkedin = "english-link"
+
+[Languages.es]
+title = "Consejo de Desarrollo de McKinley Park"
+weight = 2
+[Languages.es.params]
+linkedin = "lien-francais"
+[Languages.es.navigation]
+help  = "Aide" 
+
+[Languages.zh_cn]
+title = "McKinley Park 发展理事会"
+weight = 2
+[Languages.zh_cn.params]
+[Languages.zh_cn.navigation]
+help  = "Aide" 

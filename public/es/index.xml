@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consejo de Desarrollo de McKinley Park</title>
+    <link>http://mckinleyparkdevelopmentcouncil.org/es/</link>
+    <description>Recent content on Consejo de Desarrollo de McKinley Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2017 21:07:51 -0500</lastBuildDate>
+    
+	<atom:link href="http://mckinleyparkdevelopmentcouncil.org/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reserva</title>
+      <link>http://mckinleyparkdevelopmentcouncil.org/es/posts/save-the-date/</link>
+      <pubDate>Tue, 19 Sep 2017 21:07:51 -0500</pubDate>
+      
+      <guid>http://mckinleyparkdevelopmentcouncil.org/es/posts/save-the-date/</guid>
+      <description>Con los lotes vacantes, las demoliciones y las solicitudes de rezonificación que apuntan a nuevos desarrollos que vienen a McKinley Park, el McKinley Park Development Council (MPDC) le invita a usted ya sus vecinos a asistir a nuestro taller inaugural - una guía ciudadana de zonificación:: Comprender cómo funciona el desarrollo en su vecindario.
+Únete a MPDC ya tus vecinos para aprender y hacer preguntas sobre lo que es la zonificación; cómo funciona; y lo que significa para nuestro vecindario, para que podamos avanzar, juntos, con más conocimiento!</description>
+    </item>
+    
+  </channel>
+</rss>
