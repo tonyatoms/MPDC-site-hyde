@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://mckinleyparkdevelopmentcouncil.org/posts/save-the-date/</loc>
-    <lastmod>2017-09-19T21:07:51-05:00</lastmod>
+    <lastmod>2017-10-16T21:07:51-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -23,17 +23,37 @@
   </url>
   
   <url>
+    <loc>http://mckinleyparkdevelopmentcouncil.org/posts/my-first-post/</loc>
+    <lastmod>2017-09-13T22:07:16-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://mckinleyparkdevelopmentcouncil.org/es/posts/my-first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="http://mckinleyparkdevelopmentcouncil.org/zh_cn/posts/my-first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://mckinleyparkdevelopmentcouncil.org/posts/my-first-post/"
+                />
+  </url>
+  
+  <url>
     <loc>http://mckinleyparkdevelopmentcouncil.org/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh_cn"
-                href="http://mckinleyparkdevelopmentcouncil.org/zh_cn/categories/"
+                hreflang="es"
+                href="http://mckinleyparkdevelopmentcouncil.org/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://mckinleyparkdevelopmentcouncil.org/es/categories/"
+                hreflang="zh_cn"
+                href="http://mckinleyparkdevelopmentcouncil.org/zh_cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -44,7 +64,7 @@
   
   <url>
     <loc>http://mckinleyparkdevelopmentcouncil.org/</loc>
-    <lastmod>2017-09-19T21:07:51-05:00</lastmod>
+    <lastmod>2017-10-16T21:07:51-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -65,17 +85,17 @@
   
   <url>
     <loc>http://mckinleyparkdevelopmentcouncil.org/posts/</loc>
-    <lastmod>2017-09-19T21:07:51-05:00</lastmod>
+    <lastmod>2017-10-16T21:07:51-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh_cn"
-                href="http://mckinleyparkdevelopmentcouncil.org/zh_cn/posts/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="http://mckinleyparkdevelopmentcouncil.org/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="http://mckinleyparkdevelopmentcouncil.org/zh_cn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -89,13 +109,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh_cn"
-                href="http://mckinleyparkdevelopmentcouncil.org/zh_cn/tags/"
+                hreflang="es"
+                href="http://mckinleyparkdevelopmentcouncil.org/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://mckinleyparkdevelopmentcouncil.org/es/tags/"
+                hreflang="zh_cn"
+                href="http://mckinleyparkdevelopmentcouncil.org/zh_cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
