@@ -20,5 +20,9 @@ Location:         Bethany Baptist Church
  
 Date:                Monday, October 16, 2017
 Time:               6:30pm to 8:00pm
- 
+
+
+This [McKinley Park Guide to Zoning](https://drive.google.com/file/d/0B0znleYpwmY2Y09mTks2RHRfNFk/view?usp=sharing) provides basic zoning terms and a description of zoning districts in our neighborhood.
+
+
 Please help spread the word!

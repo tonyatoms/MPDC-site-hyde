@@ -20,6 +20,8 @@ Location:         Bethany Baptist Church
 Date:                Monday, October 16, 2017
 Time:               6:30pm to 8:00pm
  
+Este [McKinley Park Guide to Zoning](https://drive.google.com/file/d/0B0znleYpwmY2Y09mTks2RHRfNFk/view?usp=sharing) proporciona términos básicos de zonificación y una descripción de los distritos de zonificación en nuestro vecindario.
+
 Por favor, ayude a difundir la palabra!
 
 Traducido por la máquina, así que por favor perdone la traducción.

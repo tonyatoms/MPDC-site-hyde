@@ -19,6 +19,15 @@ Location:         Bethany Baptist Church
 Date:                Monday, October 16, 2017
 Time:               6:30pm to 8:00pm
  
+[McKinley Park Guide to Zoning](https://drive.google.com/file/d/0B0znleYpwmY2Y09mTks2RHRfNFk/view?usp=sharing) 在我们附近提供基本的分区条款和分区的描述.
+
+
 不久之后再寻找更多的细节，请帮忙传播一下！
 
 翻译机器，请原谅翻译。
+
+
+
+
+
+在我们附近提供基本的分区条款和分区的描述
