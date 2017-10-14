@@ -1,6 +1,6 @@
 ---
-title: "Reserva"
-date: 2017-09-19T21:07:51-05:00
+title: "Guía ciudadana de zonificación"
+date: 2017-10-16T21:07:51-05:00
 draft: false
 ---
 Con los lotes vacantes, las demoliciones y las solicitudes de rezonificación que apuntan a nuevos desarrollos que vienen a McKinley Park, el McKinley Park Development Council (MPDC) le invita a usted ya sus vecinos a asistir a nuestro taller inaugural - una guía ciudadana de zonificación:: Comprender cómo funciona el desarrollo en su vecindario. 
@@ -9,7 +9,7 @@ Con los lotes vacantes, las demoliciones y las solicitudes de rezonificación qu
  
 Pero primero, MPDC quiere escuchar de usted! Por favor tome unos minutos para completar una encuesta rápida en: [McKinley Park Community Interest Survey] (https://www.surveymonkey.com/r/N9FQVPN). No tomará más de 5 minutos fuera de su día y apreciaríamos mucho su regeneración.
 
-Mientras tanto, GUARDE LA FECHA y planea unirse a MPDC para una velada informativa:
+Planea unirse a MPDC para una velada informativa:
  
 Topic:              Guía ciudadana de zonificación:
                         Entienda cómo funciona el desarrollo en su vecindario
@@ -20,6 +20,6 @@ Location:         Bethany Baptist Church
 Date:                Monday, October 16, 2017
 Time:               6:30pm to 8:00pm
  
-Busque más detalles en breve, y por favor, ayude a difundir la palabra!
+Por favor, ayude a difundir la palabra!
 
 Traducido por la máquina, así que por favor perdone la traducción.
